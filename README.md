@@ -24,7 +24,7 @@ los lenguajes.
 
 ### Ejecucion
 
-1. Recomendado por replit ya que el programa de C# tiene problemas.
+1. Copiar y pegar codigo en replit.
 
 2. Por Script
 Pasos para Ejecutar:
