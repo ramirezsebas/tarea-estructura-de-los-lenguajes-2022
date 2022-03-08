@@ -34,3 +34,5 @@ Ejemplo:
 - bash execute_language python
 - bash execute_language c
 - bash execute_language java
+- bash execute_language c++
+- bash execute_language c#
