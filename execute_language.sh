@@ -31,8 +31,7 @@ c++)
 c#)
     echo "Ejecutando programa en C#:"
     cd src/c#
-    echo $pwd
-    dotnet run --project hola_mundo.cs
+    dotnet run
     ;;
 java)
     echo "Ejecutando programa en Java:"

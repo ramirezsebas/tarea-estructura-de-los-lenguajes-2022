@@ -24,6 +24,9 @@ los lenguajes.
 
 ### Ejecucion
 
+1. Recomendado por replit ya que el programa de C# tiene problemas.
+
+2. Por Script
 Pasos para Ejecutar:
 correr el script bash execute_language nombre-lenguaje
 
