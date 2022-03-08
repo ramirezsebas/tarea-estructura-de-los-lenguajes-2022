@@ -35,10 +35,17 @@ int main()
         char character = input[i];
         int index = input[i] % 100;
         map[index].key.c = input[i];
-        printf("La letra %c se repite ", map[index].key.c);
         map[index].value.frec = map[index].value.frec + 1;
-        printf("%d vez/veces\n", map[index].value.frec);
         i++;
+    }
+
+    for (size_t i = 0; i < 100; i++)
+    {
+        if (map[i % 100].value.frec > 0)
+        {
+            printf("La letra %c se repite ", map[i].key.c);
+            printf("%d vez/veces\n", map[i].value.frec);
+        }
     }
 
     return 0;
